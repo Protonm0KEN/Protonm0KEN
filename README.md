@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Protonm0KEN</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan. I started learning programming from 2021 and now i have some great repositories and have got a lot of experience. Also i study and develop my self every day to get new skills</h3>
-
+<h3 alighn="left">My full name is: Akbar Rikhsiojaev</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=protonm0ken&label=Profile%20views&color=0e75b6&style=flat" alt="protonm0ken" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=protonm0ken" alt="protonm0ken" /></a> </p>
