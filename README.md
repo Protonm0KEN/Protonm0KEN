@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://t.me/AkbarProton](https://t.me/AkbarProton)
 
-- ⚡ Fun fact **I am 16 years old now UwU**
+- ⚡ Fun fact **I am 17 years old now UwU**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
